@@ -1,0 +1,17 @@
+{
+  "name": "thing",
+  "version": "0.0.0-ignored",
+  "engines": {
+    "node": ">= 0.6.0"
+  },
+  "scripts": {
+    "test": "grunt jasmine"
+  },
+  "devDependencies": {
+    "grunt": "~0.3.11"
+  },
+  "dependencies": {},
+  "optionalDependencies": {},
+  "author": "Michael Allan <michaelallan@optushome.com.au>",
+  "description": "Testing with CoffeeScript book example"
+}
